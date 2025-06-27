@@ -2,6 +2,7 @@
 
 This is a simple website where people can type their name and submit it. All names are saved in your browser (no internet needed). You can also see the list of all submitted names on another page.
 
+*Example Link* - https://github.com/arpit-thombe2005/vita-project
 ---
 
 ## 🔧 What This Project Has
